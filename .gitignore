@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+install-log.txt
+diagnose-report.txt
+ippusb-disabled-labels.txt
+*.exe
+*.dll
+*.cat
